@@ -1,16 +1,61 @@
 # Title: Paint Home
 
-Live Site : 
+**Live Site** : 
 -[Paint Home](https://painting-drawing-auth.web.app)
 
-Overview:
+**Overview**:
 Paint Home is a responsive, full-stack website dedicated to drawing and painting. It offers a rich variety of categories and subcategories of art, allowing users to explore different styles and techniques. The site provides extensive information on each category, helping users to learn and improve their skills. Additionally, Paint Home includes a user-friendly platform for sharing creations, enabling artists to showcase their work and receive feedback from the community. Whether you're a beginner or an experienced artist, Paint Home provides the tools and resources you need to enhance your artistic journey.
 
-Key Features:
+**Key Features**:
 - User Accounts: Seamless account creation via Google login for full access.
 - Post and Manage Art: Users can post, update, and delete their painting information on the "My Art & Craft List" page.
 - Data Security: Ensures each user's data is secure and private; users can only access and modify their own data.
- 
+
+
+**Used Technology**:
+- Frontend: HTML,CSS3,TailwindCSS,Material Tailwind,React,React Router.
+- Backend: NodeJs,MongoDb,ExpressJs
+
+**Installation** :
+
+
+- Client-Side :
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/nahidbinwadood/Paint-Home
+cd client-side
+```
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Client-side**
+
+```bash
+npm run dev
+```
+
+- Server Side :
+```bash
+cd server
+```
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Server-side**
+
+```bash
+nodemonindex.js
+``` 
 
 
 Resources:
